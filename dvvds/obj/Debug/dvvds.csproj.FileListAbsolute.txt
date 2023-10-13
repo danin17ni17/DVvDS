@@ -1,0 +1,21 @@
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\bin\Debug\dvvds.exe.config
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\bin\Debug\dvvds.exe
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\bin\Debug\dvvds.pdb
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\obj\Debug\dvvds.csprojResolveAssemblyReference.cache
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\obj\Debug\dvvds.Properties.Resources.resources
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\obj\Debug\dvvds.csproj.GenerateResource.Cache
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\obj\Debug\dvvds.exe
+c:\users\даниил\documents\visual studio 2012\Projects\dvvds\dvvds\obj\Debug\dvvds.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\dvvds\dvvds\obj\Debug\dvvds.Form4.resources
+C:\myC#\Projects(2)\dvvds\dvvds\bin\Debug\dvvds.exe.config
+C:\myC#\Projects(2)\dvvds\dvvds\obj\Debug\dvvds.exe
+C:\myC#\Projects(2)\dvvds\dvvds\obj\Debug\dvvds.pdb
+C:\myC#\Projects(2)\dvvds\dvvds\bin\Debug\dvvds.exe
+C:\myC#\Projects(2)\dvvds\dvvds\bin\Debug\dvvds.pdb
+C:\myC#\Projects(2)\dvvds\dvvds\obj\Debug\dvvds.csprojResolveAssemblyReference.cache
+C:\myC#\Projects(2)\dvvds\dvvds\obj\Debug\dvvds.Form4.resources
+C:\myC#\Projects(2)\dvvds\dvvds\obj\Debug\dvvds.Properties.Resources.resources
+C:\myC#\Projects(2)\dvvds\dvvds\obj\Debug\dvvds.csproj.GenerateResource.Cache
+C:\myC#\Projects(2)\dvvds\bin\Debug\dvvds.exe.config
+C:\myC#\Projects(2)\dvvds\obj\Debug\dvvds.exe
+C:\myC#\Projects(2)\dvvds\obj\Debug\dvvds.pdb
